@@ -1,4 +1,4 @@
-arr = ["abc","bdx","cvf","ouml"]
+arr = "abcavdfa"
 freq=Hash.new  
 freq.default=0
 arr.each_char do |val|
